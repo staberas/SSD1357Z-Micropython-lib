@@ -1,7 +1,7 @@
 # SSD1357Z-Micropython-lib
-SSD1357Z Micropython lib sold on Aliexpress ( OLED-64-RGB )
-Credits: Based on the script created by Waveshare :
-https://www.waveshare.com/0.96inch-rgb-oled-module.htm
+SSD1357Z Micropython lib sold on Aliexpress ( OLED-64-RGB ) 
+
+Credits: Based on the script created by Waveshare: https://www.waveshare.com/0.96inch-rgb-oled-module.htm
 Edited for generic color 64x64 oled screens sold on Aliexpress using a similar SSD1357z IC like this one: https://www.aliexpress.com/item/1005005393885200.html
 
 [<img src="0-6-inch-color-OLED-display-64x64.webp" width="350"/>](https://raw.githubusercontent.com/staberas/SSD1357Z-Micropython-lib/main/0-6-inch-color-OLED-display-64x64.webp?raw=true)
